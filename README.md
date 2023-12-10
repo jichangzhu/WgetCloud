@@ -26,3 +26,6 @@ WgetCloud最新官网地址：[https://wgetcloud.org/](https://jichangzhu.com/go
 
 ## WgetCloud跑路
 目前WgetCloud没有跑路，可以放心使用。
+
+## WgetCloud评测
+更多有关WgetCloud评测可访问：https://jichangzhu.com/node/wgetcloud/
