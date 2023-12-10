@@ -1,7 +1,7 @@
 # WgetCloud官网地址
 WgetCloud最新官网地址：[https://wgetcloud.org/](https://jichangzhu.com/goto/wgetcloud/)
 
-## WgetCloud简介
+## WgetCloud怎么样？
 
 ## WgetCloud优惠码
 
@@ -17,8 +17,12 @@ WgetCloud最新官网地址：[https://wgetcloud.org/](https://jichangzhu.com/go
 | 精品专线服务 | 按月付 | 69.00 | 160 GB | 3 |
 | 精品专线服务 | 按季付 | 207.00 | 240 GB | 3 |
 | 精品专线服务 | 按年付 | 828.00 | 320 GB | 3 |
+
 ## WgetCloud机场测速
 ![WgetCloud-SpeedTest-SZDX-20231208](https://github.com/jichangzhu/WgetCloud/assets/152512496/8dbc0c5c-ee49-4405-a5b1-d0b329dfd536)
 
 ## WgetCloud出入口分析
 ![WgetCloud-Network-Topology-SZDX-20231205](https://github.com/jichangzhu/WgetCloud/assets/152512496/9830990d-1cea-4479-9dc8-de293b7e2f7a)
+
+## WgetCloud跑路
+目前WgetCloud没有跑路，可以放心使用。
