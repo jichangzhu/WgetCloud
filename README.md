@@ -6,7 +6,6 @@ WgetCloud最新官网地址：https://wgetcloud.org/
 ## WgetCloud优惠码
 
 ## WgetCloud优惠套餐
-| 表头 | 表头 | 表头 | 表头 | 表头 |
 | --- | --- | --- | --- | --- |
 | WgetCloud | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 | 基础专线服务 | 按月付 | 49.00 | 120 GB | 3 |
