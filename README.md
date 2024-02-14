@@ -1,5 +1,5 @@
 # WgetCloud官网地址
-最新官网地址：[WgetCloud官网](https://c.jichangzhu.com/goto/wgetcloud/)
+最新官网地址：[WgetCloud官网](https://jcz.affxc.com/wgetcloud/)
 
 ## WgetCloud怎么样？
 
