@@ -31,4 +31,5 @@
 更多有关WgetCloud评测可访问：https://jichangzhu.com/node/wgetcloud/
 
 ## 机场推荐
-[2024最新好用的机场推荐与节点分享](https://github.com/jichangzhu/JichangTuijian)
+ - [最新好用的机场推荐与节点分享](https://github.com/jichangzhu/JichangTuijian)
+ - [稳定好用的机场推荐](https://jichangzhu.com/node/?utm_source=github&utm_medium=jichangzhu-details)
